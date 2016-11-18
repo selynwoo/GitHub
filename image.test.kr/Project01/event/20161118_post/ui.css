@@ -1,0 +1,30 @@
+body,div,ul,li,h3,h2,p,img{margin:0; padding:0;}
+img{border:0 none;}
+body{font-size:12px; color:#333; font-family:sans-serif;}
+a:link,a:visited,a:hover,a:active{color:#990000;}
+ul{width:316px; border:1px solid #990000; padding:350px 10px 30px 10px; position:relative;list-style-type:none;text-align:center;float:left;}
+ul li h3,ul li p,ul li{display:inline;}
+ul li img{position:absolute; width:100px; height:100px; outline:1px solid #e4e4e4; padding:1px;}
+ul li img:hover{position:absolute; width:160px; height:160px; outline:1px solid #e4e4e4; padding:1px;z-index:999;}
+#Pomegranate img{top:10px; left:10px;}
+#Pomegranate img:hover{top:-30px; left:-30px;}
+#Carrot img{top:10px; left:115px;}
+#Carrot img:hover{top:-30px; left:80px;}
+#Onion img{top:10px; left:220px;}
+#Onion img:hover{top:-30px; left:180px;}
+#Gourd img{top:115px; left:10px;}
+#Gourd img:hover{top:80px; left:-30px;}
+#Strawberry img{top:115px; left:115px;}
+#Strawberry img:hover{top:80px; left:80px;}
+#Lily img{top:115px; left:220px;}
+#Lily img:hover{top:80px; left:180px;}
+#Fig img{top:220px; left:10px;}
+#Fig img:hover{top:180px; left:-30px;}
+#Wine img{top:220px; left:115px;}
+#Wine img:hover{top:180px; left:80px;}
+#Bean img{top:220px; left:220px;}
+#Bean img:hover{top:180px; left:180px;}
+#wrap{width:900px; margin:50px auto 0 auto;}
+#right{width:530px; float:right;}
+#right h2{text-align:center;}
+#right p{text-align:center; margin-bottom:30px;}
